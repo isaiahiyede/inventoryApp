@@ -1,0 +1,12 @@
+2024-06-28 09:49:22,484 ogheneyoleisaiah@gmail.com logged in @ 2024-06-28 09:49:22.484463
+2024-06-28 10:09:46,493 /Users/iyedeisaiah/Desktop/allfiles2/projects/inventoryApp/inventory/serializers.py changed, reloading.
+2024-06-28 10:23:12,124 ID of item fetched is: 3 @ 2024-06-28 10:23:12.123507
+2024-06-28 10:23:12,133 ID of item fetched is: 3 @ 2024-06-28 10:23:12.133354
+2024-06-28 10:26:47,310 ID of supplier fetched is: 1 @ 2024-06-28 10:26:47.309972
+2024-06-28 10:38:19,818 ID of item fetched is: 1 @ 2024-06-28 10:38:19.817335
+2024-06-28 10:38:19,828 ID of item fetched is: 1 @ 2024-06-28 10:38:19.827728
+2024-06-28 10:41:32,722 ID of item fetched is: 1 @ 2024-06-28 10:41:32.721385
+2024-06-28 10:41:32,727 ID of item fetched is: 1 @ 2024-06-28 10:41:32.726714
+2024-06-28 10:44:25,295 Method Not Allowed: /inventory/items/suppliers/api/3/1
+2024-06-28 10:48:08,784 ID of supplier fetched is: 1 @ 2024-06-28 10:48:08.783651
+2024-06-28 10:48:17,300 ID of item fetched is: 1 @ 2024-06-28 10:48:17.300192
